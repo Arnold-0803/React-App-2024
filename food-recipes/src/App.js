@@ -35,8 +35,7 @@ const Logo = styled(Link)`
 `;
 
 const Nav = styled.div`
-  margin-top: -40px;
-  margin-bottom:60px;
+  margin: -40px -180px 60px;
   padding: 4rem 0rem .5rem;
   display: flex;
   justify-content: flex-start;
